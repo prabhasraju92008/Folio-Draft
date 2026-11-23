@@ -1,0 +1,6 @@
+{
+  "name": "FolioDraft — AI Cover Letter Generator",
+  "description": "Generate tailored, ready-to-send cover letters under 300 words that connect your degree, skills, and projects to any job description.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
